@@ -1,0 +1,7 @@
+name = "youyoughost-website"
+compatibility_date = "2026-04-20"
+
+# Static site placeholder config.
+# If you use Cloudflare Pages with GitHub, deployment can happen from the
+# dashboard without Wrangler. This file is here so the project has an obvious
+# Cloudflare home for future updates.
